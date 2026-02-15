@@ -1,3 +1,16 @@
+## File Structure
+
+├─ index.html        ← Home page
+├─ about.html        ← About page
+├─ services.html     ← Services offered
+├─ blog.html         ← Blog section
+├─ books.html        ← Books page
+├─ support.html      ← Support information
+├─ contact.html      ← Contact form/page
+├─ terms.html        ← Terms & Conditions
+├─ style.css         ← Main stylesheet
+└─ script.js         ← JavaScript functionality
+
 # Sana's Bookstore Website
 
 This is a simple bookstore website built with HTML, CSS, and JavaScript.
